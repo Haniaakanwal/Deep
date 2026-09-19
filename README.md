@@ -2,11 +2,6 @@
 
 Detects and crops individual receipts from a single photo containing multiple receipts — works across different backgrounds, lighting conditions, and receipt templates without any custom training.
 
-## Example
-
-| Input | Output |
-|---|---|
-| ![input](report_assets/original.jpg) | ![output](report_assets/final_detection.jpg) |
 
 ## Approach
 
